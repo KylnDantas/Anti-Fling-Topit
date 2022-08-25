@@ -212,7 +212,7 @@ end
 
 -- final notif 
 sGuiServ:SetCore('SendNotification', {
-	Title = 'antifling';
-	Text = 'ready to go\n\nif you change any setting re-exec the script to refresh it';
+	Title = 'Anti Void';
+	Text = 'Credits: topit';
 	Duration = 4;
 })
